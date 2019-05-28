@@ -5,7 +5,5 @@
 * [腾讯产品经理职级定义](teng-xun-chan-pin-zhi-ji.md)
 * [腾讯四层职级系统](teng-xun-si-ceng-zhi-ji-xi-tong.md)
 * [《影响力》\| 我们是如何被说服的？](300a-ying-xiang-li-300b7c-wo-men-shi-ru-he-bei-shuo-fu-de-ff1f.md)
-* [圣经类产品竞品调研](sheng-jing-lei-chan-pin-jing-pin-diao-yan.md)
-* [全球iOS内购类产品行业报告](iosnei-gou-lei-chan-pin-de-yin-dao-ye-ti-yan-bao-gao.md)
 * [《小群效应》\| 为什么我们都想加入大群，却只在小群活跃？](300a-xiao-qun-xiao-ying-300b7c.md)
 
