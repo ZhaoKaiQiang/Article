@@ -6,4 +6,6 @@
 * [腾讯四层职级系统](teng-xun-si-ceng-zhi-ji-xi-tong.md)
 * [《影响力》\| 我们是如何被说服的？](300a-ying-xiang-li-300b7c-wo-men-shi-ru-he-bei-shuo-fu-de-ff1f.md)
 * [《小群效应》\| 为什么我们都想加入大群，却只在小群活跃？](300a-xiao-qun-xiao-ying-300b7c.md)
+* [北极星方法](bei-ji-xing-fang-fa.md)
+* [如何处理领导提出的奇葩想法](ru-he-chu-li-ling-dao-ti-chu-de-qi-xiang-fa.md)
 
