@@ -2,7 +2,7 @@
 
 ### 六维验证法
 
-![&#x516D;&#x7EF4;&#x9A8C;&#x8BC1;&#x6CD5;](.gitbook/assets/image.png)
+![&#x516D;&#x7EF4;&#x9A8C;&#x8BC1;&#x6CD5;](../.gitbook/assets/image.png)
 
 1. 必须是可以迭代的。我们能够从一个简单的 MVP 开始不断迭代直到完善；
 2. 有立竿见影的效果。当新的想法实现的时候需要能给我们带来直观的改变；
