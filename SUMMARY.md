@@ -16,3 +16,9 @@
 * [腾讯四层职级系统](chan-pin-jing-li/teng-xun-si-ceng-zhi-ji-xi-tong.md)
 * [腾讯产品三节课](chan-pin-jing-li/teng-xun-san-jie-ke.md)
 
+## 经验总结
+
+* [Git 常用命令](jing-yan-zong-jie/git-chang-yong-ming-ling.md)
+* [adb 常用命令](jing-yan-zong-jie/adb-chang-yong-ming-ling.md)
+* [统计事件测试](jing-yan-zong-jie/tong-ji-shi-jian-ce-shi.md)
+
