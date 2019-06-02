@@ -23,3 +23,8 @@
 * [adb 常用命令](jing-yan-zong-jie/adb-chang-yong-ming-ling.md)
 * [统计事件测试](jing-yan-zong-jie/tong-ji-shi-jian-ce-shi.md)
 
+## 技术总结
+
+* [密码学与安全](ji-shu-zong-jie/mi-ma-xue-yu-an-quan.md)
+* [计算机网络](ji-shu-zong-jie/ji-suan-ji-wang-luo.md)
+
