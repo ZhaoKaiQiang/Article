@@ -5,8 +5,9 @@
 ## 读书笔记
 
 * [《小群效应》\| 为什么我们都想加入大群，却只在小群活跃？](du-shu-bi-ji/300a-xiao-qun-xiao-ying-300b7c.md)
-* [《影响力》\| 我们是如何被说服的？](du-shu-bi-ji/300a-ying-xiang-li-300b7c-wo-men-shi-ru-he-bei-shuo-fu-de-ff1f.md)
+* [《影响力》\| 我们是如何被说服的？](du-shu-bi-ji/300a-ying-xiang-li-300b7c-wo-men-shi-ru-he-bei-shuo-fu-de-ff1f.md)
 * [《刻意练习》\| 如何正确的练习](du-shu-bi-ji/ke-yi-lian-xi-ru-he-zheng-que-de-lian-xi.md)
+* [《从零开始学架构》](du-shu-bi-ji/cong-ling-kai-shi-xue-jia-gou.md)
 
 ## 产品经理
 
