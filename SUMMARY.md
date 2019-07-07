@@ -4,6 +4,7 @@
 
 ## 读书笔记
 
+* [《习惯的力量》](du-shu-bi-ji/xi-guan-de-li-liang.md)
 * [《小群效应》](du-shu-bi-ji/300a-xiao-qun-xiao-ying-300b7c.md)
 * [《非暴力沟通》](du-shu-bi-ji/fei-bao-li-gou-tong.md)
 * [《高绩效教练》](du-shu-bi-ji/gao-ji-xiao-jiao-lian.md)
