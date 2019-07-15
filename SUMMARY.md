@@ -38,6 +38,7 @@
 
 ## 复盘与反思
 
+* [绩效管理](fu-pan-yu-fan-si/ji-xiao-guan-li.md)
 * [Android 结构化面试](fu-pan-yu-fan-si/android-jie-gou-hua-mian-shi.md)
-* [招聘中犯的问题](fu-pan-yu-fan-si/zhao-pin-zhong-fan-de-wen-ti.md)
+* [面试经验总结](fu-pan-yu-fan-si/zhao-pin-zhong-fan-de-wen-ti.md)
 
