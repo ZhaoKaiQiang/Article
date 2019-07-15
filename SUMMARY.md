@@ -39,6 +39,5 @@
 ## 复盘与反思
 
 * [Android 结构化面试](fu-pan-yu-fan-si/android-jie-gou-hua-mian-shi.md)
-* [OnePiece 2019 年中总结](fu-pan-yu-fan-si/onepiece-2019-nian-zhong-zong-jie.md)
 * [招聘中犯的问题](fu-pan-yu-fan-si/zhao-pin-zhong-fan-de-wen-ti.md)
 
