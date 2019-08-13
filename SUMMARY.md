@@ -27,6 +27,7 @@
 
 ## 经验总结
 
+* [如何提高版本质量？](jing-yan-zong-jie/ru-he-ti-gao-ban-ben-zhi-liang.md)
 * [Git 常用命令](jing-yan-zong-jie/git-chang-yong-ming-ling.md)
 * [adb 常用命令](jing-yan-zong-jie/adb-chang-yong-ming-ling.md)
 * [统计事件测试](jing-yan-zong-jie/tong-ji-shi-jian-ce-shi.md)
