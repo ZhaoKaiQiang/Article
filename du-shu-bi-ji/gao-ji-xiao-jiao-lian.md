@@ -71,7 +71,7 @@
 
 #### 第六章：提问的顺序
 
-![&#x89C9;&#x5BDF;&#x529B;&#x548C;&#x8D23;&#x4EFB;&#x5FC3;](../.gitbook/assets/image%20%281%29.png)
+![&#x89C9;&#x5BDF;&#x529B;&#x548C;&#x8D23;&#x4EFB;&#x5FC3;](../.gitbook/assets/image%20%282%29.png)
 
 > GROW 模型 
 >

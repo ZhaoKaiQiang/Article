@@ -41,7 +41,11 @@
 
 * [工作沟通技巧](fu-pan-yu-fan-si/gong-zuo-gou-tong-ji-qiao.md)
 * [绩效面谈](fu-pan-yu-fan-si/ji-xiao-mian-tan.md)
-* [绩效管理](fu-pan-yu-fan-si/ji-xiao-guan-li.md)
 * [Android 结构化面试](fu-pan-yu-fan-si/android-jie-gou-hua-mian-shi.md)
 * [面试经验总结](fu-pan-yu-fan-si/zhao-pin-zhong-fan-de-wen-ti.md)
+
+## 管理经验
+
+* [绩效管理](guan-li-jing-yan/ji-xiao-guan-li.md)
+* [Untitled](guan-li-jing-yan/untitled.md)
 
