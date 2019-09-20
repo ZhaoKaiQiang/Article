@@ -19,6 +19,7 @@
 
 ## 产品经理
 
+* [增长黑客](chan-pin-jing-li/zeng-chang-hei-ke.md)
 * [北极星方法](chan-pin-jing-li/bei-ji-xing-fang-fa.md)
 * [如何处理领导提出的奇葩想法](chan-pin-jing-li/ru-he-chu-li-ling-dao-ti-chu-de-qi-xiang-fa.md)
 * [腾讯产品经理职级定义](chan-pin-jing-li/teng-xun-chan-pin-zhi-ji.md)

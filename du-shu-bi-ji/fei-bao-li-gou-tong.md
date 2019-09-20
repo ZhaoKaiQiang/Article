@@ -40,7 +40,7 @@ Chapter 1 - 2 ：介绍了非暴力沟通的四要素：观察、感受、需求
 
 ::批注：::教练技巧中的描述现象，不给出评论
 
-![&#x89C2;&#x5BDF;&#x4E0E;&#x8BC4;&#x8BBA;](../.gitbook/assets/image%20%285%29.png)
+![&#x89C2;&#x5BDF;&#x4E0E;&#x8BC4;&#x8BBA;](../.gitbook/assets/image%20%286%29.png)
 
 
 
