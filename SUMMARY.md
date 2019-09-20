@@ -4,6 +4,7 @@
 
 ## 读书笔记
 
+* [《自控力》](du-shu-bi-ji/zi-kong-li.md)
 * [《重新定义团队》](du-shu-bi-ji/zhong-xin-ding-yi-tuan-dui.md)
 * [《习惯的力量》](du-shu-bi-ji/xi-guan-de-li-liang.md)
 * [《小群效应》](du-shu-bi-ji/300a-xiao-qun-xiao-ying-300b7c.md)
